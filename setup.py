@@ -20,7 +20,7 @@ setup(
     description="This is an Adapter for PyCasbin that implemented using Databases connection to achieve async process",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pycasbin/casbin-databases-adapter",
+    url="https://github.com/officialpycasbin/casbin-databases-adapter",
     keywords=[
         "casbin",
         "asynccasbin",

@@ -1,7 +1,7 @@
 # Databases Casbin Adapter
 
-[![GitHub Actions](https://github.com/pycasbin/casbin-databases-adapter/workflows/build/badge.svg?branch=master)](https://github.com/pycasbin/casbin-databases-adapter/actions)
-[![Coverage Status](https://coveralls.io/repos/github/pycasbin/casbin-databases-adapter/badge.svg?branch=master)](https://coveralls.io/github/pycasbin/casbin-databases-adapter?branch=master)
+[![GitHub Actions](https://github.com/officialpycasbin/casbin-databases-adapter/workflows/build/badge.svg?branch=master)](https://github.com/officialpycasbin/casbin-databases-adapter/actions)
+[![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/casbin-databases-adapter/badge.svg?branch=master)](https://coveralls.io/github/officialpycasbin/casbin-databases-adapter?branch=master)
 [![Version](https://img.shields.io/pypi/v/casbin_databases_adapter.svg)](https://pypi.org/project/casbin_databases_adapter/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin_databases_adapter.svg)](https://pypi.org/project/casbin_databases_adapter/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casbin_databases_adapter.svg)](https://pypi.org/project/casbin_databases_adapter/)
