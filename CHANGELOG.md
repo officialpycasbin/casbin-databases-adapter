@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.4.0...v1.5.0) (2025-08-20)
+
+
+### Features
+
+* fix README badges ([#1](https://github.com/officialpycasbin/casbin-databases-adapter/issues/1)) ([e3872dc](https://github.com/officialpycasbin/casbin-databases-adapter/commit/e3872dcc1d50d87bbbc3b3d49d4b39f4888eefbf))
+
 # [1.4.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.3.0...v1.4.0) (2025-08-20)
 
 
