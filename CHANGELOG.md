@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.3.0...v1.4.0) (2025-08-20)
+
+
+### Features
+
+* use pytest-asyncio to fix CI error on Python 3.11 and 3.12 ([7a6fc88](https://github.com/officialpycasbin/casbin-databases-adapter/commit/7a6fc88fb8f4b06755efdabfbcbb104a11143d68))
+
 # [1.3.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.2.0...v1.3.0) (2024-10-27)
 
 
