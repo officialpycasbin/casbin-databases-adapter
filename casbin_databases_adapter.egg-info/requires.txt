@@ -1,0 +1,3 @@
+SQLAlchemy==1.4.42
+asynccasbin==1.1.7
+databases==0.7.0

@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+casbin_databases_adapter/__init__.py
+casbin_databases_adapter/adapter.py
+casbin_databases_adapter.egg-info/PKG-INFO
+casbin_databases_adapter.egg-info/SOURCES.txt
+casbin_databases_adapter.egg-info/dependency_links.txt
+casbin_databases_adapter.egg-info/requires.txt
+casbin_databases_adapter.egg-info/top_level.txt
+tests/test_adapter.py
