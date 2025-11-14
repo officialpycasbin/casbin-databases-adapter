@@ -29,7 +29,7 @@ class DatabasesAdapter(persist.Adapter):
         for row in rows:
             # convert row from tuple to csv format and removing the first column (id)
             line = [
-                v for k, v in row._mapping.items() if k in self.cols and v is not None
+                v for k, v in dict(row._mapping).items() if k in self.cols and v is not None
             ]
             persist.load_policy_line(", ".join(line), model)
 
@@ -84,7 +84,7 @@ class DatabasesAdapter(persist.Adapter):
         for row in rows:
             # convert row from tuple to csv format and removing the first column (id)
             line = [
-                v for k, v in row._mapping.items() if k in self.cols and v is not None
+                v for k, v in dict(row._mapping).items() if k in self.cols and v is not None
             ]
             persist.load_policy_line(", ".join(line), model)
 
