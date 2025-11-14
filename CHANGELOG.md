@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.6.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.5.0...v1.6.0) (2025-11-14)
+
+
+### Features
+
+* fix SQLAlchemy 2.x compatibility in row iteration ([739dd23](https://github.com/officialpycasbin/casbin-databases-adapter/commit/739dd23a0bc3c7c45fc8b97a3031f80614f3345d))
+
 # [1.5.0](https://github.com/officialpycasbin/casbin-databases-adapter/compare/v1.4.0...v1.5.0) (2025-08-20)
 
 
